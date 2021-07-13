@@ -1,5 +1,6 @@
 # IconChecker
-## python版本
+## python version
   python3.6.9
-## Android模拟器版本
+  
+## Android simulator version
   genymotion Android 8.0
