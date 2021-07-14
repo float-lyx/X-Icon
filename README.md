@@ -12,4 +12,8 @@
     *  nltk==3.5
     *  urllib3==1.25.3
     *  translate==3.5.0
-  * Android simulator version: genymotion Android 8.0
+  * GenyMotion Download: https://www.genymotion.com/
+  * Android Simulator Version: Android 8.0
+  * Apktool Version: v2.3.4-dirty
+## Run
+sniff_traffic.sh --apk_path apk_folder
