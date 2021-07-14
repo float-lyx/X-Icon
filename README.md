@@ -16,4 +16,5 @@
   * Android Simulator Version: Android 8.0
   * Apktool Version: v2.3.4-dirty
 ## Run
+```bash
 sniff_traffic.sh --apk_path apk_folder
