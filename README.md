@@ -5,5 +5,4 @@
   * python3.6.9
   * Python Library:
     *  
-## Android simulator version
-  genymotion Android 8.0
+  * Android simulator version: genymotion Android 8.0
