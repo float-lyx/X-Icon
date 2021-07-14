@@ -2,7 +2,7 @@
 source /home/lyx/anaconda3/etc/profile.d/conda.sh
 conda deactivate
 
-cd /home/lyx/PycharmProjects/auto_sniff_traffic_baiduOCR_translate/
+cd /home/lyx/PycharmProjects/IconChecker/
 apk_path=$1  # input apk's path
 home_path=/home/lyx/Desktop/auto
 echo "decoded apk......"
@@ -53,7 +53,7 @@ do
         python result_noSIFT.py --packagename $name
         echo "Finish Analysis $packagename ..."
         conda deactivate
-        cd /home/lyx/PycharmProjects/auto_sniff_traffic_baiduOCR_translate/
+        cd /home/lyx/PycharmProjects/IconChecker/
     else
         echo "Decoded $dirname Error..."
     fi   
