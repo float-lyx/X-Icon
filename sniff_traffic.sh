@@ -44,7 +44,7 @@ do
             fi
         done
         echo "Cross Checking......"
-        python3 CrossCheck.py --apkname $name
+        python3 CrossCheck.py --apkname $name --homepath $home_path
 
         echo "Analysis..., and create a report."
         conda activate sift
